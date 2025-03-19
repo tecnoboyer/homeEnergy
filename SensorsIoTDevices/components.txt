@@ -1,0 +1,8 @@
+Components:
+DHT22: Temperature and humidity sensor.
+
+MH-Z19B: CO2 sensor.
+
+PIR Sensor: Motion detection for occupancy.
+
+Arduino Nano: Microcontroller.
